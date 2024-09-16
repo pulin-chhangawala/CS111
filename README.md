@@ -36,3 +36,9 @@ And you are ready to run any projects you want!
 
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
+
+## License
+This repository is licensed under the GPU-3.0 License. See the LICENSE file for more details.
+
+## Contact
+If you have any questions or need further assistance, feel free to reach out to me at [pulinchhangawala@gmail.com].
