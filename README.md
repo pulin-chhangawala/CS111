@@ -11,14 +11,15 @@ Welcome to my repository for Introductory Computer Science in Java! This reposit
 - Contact
 
 ## Introduction
-This repository is a comprehensive collection of projects and exercises from my journey through introductory computer science, focusing on Java programming. It includes various fundamental concepts such as data structure applications, object-oriented programming, File I/O, Exception Handling, database extraction and manipulation, recursive solutions and more.
+This repository is a comprehensive collection of projects and exercises from my journey through introductory computer science, focusing on Java programming. It includes various fundamental concepts such as Data structure applications, Object-oriented programming, File I/O, Exception Handling, Database manipulation, Recursive solutions and more.
 
 ## Features
 - **Data Structures**: Applications of foundational data structures using inbuilt Java functionality and the Java.Util library.
 - **Object-Oriented Programming**: Classes, objects, inheritance, encapsulation, and abstraction.
 - **File I/O**: Reading from and writing to text and CSV files using either scanner or Std.
 - **Exception Handling**: Robust error handling mechanisms.
-- **Unit Testing**: Test cases for various components using JUnit.
+- **Database manipulation**: Multiple projects include taking input from .txt or .csv files to feed into databases and later derive relations or probabilities to make predictions.
+- **Recursion**: Certain portions of this repository include functions which are recursive by nature to find solutions in a more efficient overall runtime.
 
 ## Installation
 To access, manipulate and run projects, get a local copy up and running by following these simple steps:
