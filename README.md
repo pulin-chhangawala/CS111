@@ -24,13 +24,13 @@ This repository is a comprehensive collection of projects and exercises from my 
 ## Installation
 To access, manipulate and run projects, get a local copy up and running by following these simple steps:
 
-1. **Clone the repository**
-  git clone https://github.com/pulin-chhangawala/CS111.git
+1. **Clone the repository**:
+  use command :git clone https://github.com/pulin-chhangawala/CS111.git
 
-2. **Navigate to the project directory**
+2. **Navigate to the project directory**:
   cd intro-cs-java
 
-3. **Compile the Java files**
+3. **Compile the Java files**:
   javac src/*.java
 
 And you are ready to run any projects you want!
