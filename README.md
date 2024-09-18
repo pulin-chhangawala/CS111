@@ -1,4 +1,4 @@
-# Introductory Computer Science in Java
+# Introductory Computer Science with Java
 
 Welcome to my repository for Introductory Computer Science in Java! This repository contains a collection of my works covering a wide range of foundational computer science concepts, implemented in Java.
 
