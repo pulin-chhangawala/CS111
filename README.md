@@ -26,15 +26,15 @@ To access, manipulate and run projects, get a local copy up and running by follo
 
 1. **Clone the repository**:
    
-  use command :git clone https://github.com/pulin-chhangawala/CS111.git
+     use command :git clone https://github.com/pulin-chhangawala/CS111.git
 
 2. **Navigate to the project directory**:
    
-  cd intro-cs-java
+     cd intro-cs-java
 
 3. **Compile the Java files**:
    
-  javac src/*.java
+     javac src/*.java
 
 And you are ready to run any projects you want!
 
